@@ -1,0 +1,261 @@
+.container-fluid{   
+    padding-left: 0px!important;
+    padding-right: 0px!important; 
+}
+.top{
+    padding: 10px;
+    color: red;
+}
+.second-top{
+    height: 50px;
+    width: 100%;
+    background-image: linear-gradient(#c5ecfd, white);
+    
+}
+.main-page{
+    background-color: rgb(153, 194, 233);
+    
+}
+.main-page h1{
+    color: #11043d;
+}
+.btn-outline-secondary{
+    border-radius: 50px 50px 50px 50px;
+    border-color: none;
+    background-color:#578aff!important;
+    color: black;
+}
+.main-page hr{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px #11043d
+    ;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.fourth-top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+.first-line{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    margin-right: 250px;
+}
+
+.first-line h6{
+    margin: 0px 20px 0px 20px;
+    font-size: 30px;
+    color: #11043d;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+.btn-grp{
+    background-color: rgba(12, 63, 110, 0.418);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-left: 18px;
+    width: 120px;
+    margin-top: 8px;
+    height: 40px;
+}
+.btn-group-1{
+    height: 40px;
+    width: 150px;
+    background-color: rgba(12, 63, 110, 0.418);
+    color: white;
+    font-weight: bolder;
+}
+
+.btn-group-2{
+    height: 40px;
+    width: 300px;
+    background-color: white!important;
+   color: black;
+   font-weight: bolder;
+
+}
+.btn-group-2:hover{
+    color: black;
+}
+.hint{
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+.hint h6{
+    margin-left: 250px;
+    font-size: 0.8rem;
+}
+/* ************************main box ****************** */
+.main-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    height: 400px;
+}
+
+.message-1{
+    font-size: 2.5rem;
+    font-weight: bolder;
+
+}
+.message-2{
+    font-size: 0.9rem;
+    color: red;
+    
+}
+.message button{
+    margin-top: 220px;
+    color: white;
+    font-size: 1.5rem;
+    height: 50px;
+}
+
+.big-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    margin-left: 50px;
+    /* border:rgb(15, 55, 94) 4px solid; */
+    box-shadow: 0px 0px 2px 15px rgb(79, 152, 221);
+}
+
+.subject{
+    border:rgb(15, 55, 94) 2px solid;
+    width: 400px;
+    height: 325px;
+}
+.reply{
+    border:rgb(15, 55, 94) 2px solid;
+    width: 400px;
+    height: 325px;
+}
+
+.subject-1{
+    background-color: rgba(22, 216, 223, 0.479);
+    border:  1px solid #0b5a92;
+    height: 65px;
+
+}
+.subject-hello{
+    font-weight: bolder;
+}
+.subject-2{
+    background-color: #ffffff;
+    width: 400px;
+    height: 180px;
+}
+
+.subject-3{
+    background-color: #ffffff;
+    border:  1px solid #0b5a92;
+    height: 80px;
+    width: 400px;
+}
+.subject-3-sub{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+.subject-3-sub h5{
+    margin-left: 30px;
+}
+.big-box hr{
+width: 100%;
+border: 1px solid #c5ecfd;
+
+}
+
+.reply-1{
+    background-color: rgba(22, 216, 223, 0.479);
+    border:  1px solid #0b5a92;
+    height: 65px;
+
+}
+.reply-1 h1{
+    font-weight: 500;
+    margin-left: 10PX;
+}
+.reply-2{
+    background-color: #ffffff;
+    width: 397px;
+    height: 180px;
+}
+.reply-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    background-color: white;
+    border:  1px solid #0b5a92;
+    height: 80px;
+    width: 397px;
+}
+.reply-3 button{
+    margin-left: 15px;
+}
+.reply-btn-1{
+    background-color: #304a8e;
+    border-radius: 20px;
+    width: 160px;
+    height: 35px;
+    color: white;
+}
+.reply-btn-2{
+    background-color: #1555d8;
+    border-radius: 20px;
+    width: 80px;
+    height: 35px;
+    color: white;
+}
+.reply-btn-3{
+    background-color: #304a8e;
+    border-radius: 20px;
+    width: 90px;
+    height: 35px;
+    color: white;
+}
+.btn-style-1 {
+  background-color: #1b54d3;
+  color: white;
+  border-radius: 20px;
+  width: 170px;
+  height: 35px;
+  margin-right: 20px;
+  margin-left: 20px;
+}  
+.btn-style-2 {
+    background-color: #e4415b;
+    color: white;
+    border-radius: 20px;
+    width: 170px;
+    height: 35px;
+}
+
+.last-2{
+    height: 40px;
+    width: 100%;
+    background-color: white;
+   
+}
+.last-1{
+    height: 100px;
+    width: 100%;
+    background-color: #224375;
+}
